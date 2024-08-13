@@ -1,2 +1,2 @@
-# riskquant
+# RiskQuant®
 riskquant website
